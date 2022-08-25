@@ -23,12 +23,12 @@ footer {
     max-width: 800px;
 }
 
-header {
-    padding: 2em 0;
-}
-
 header h1 {
     font-size: 3em;
+}
+
+ul {
+    text-decoration: none;
 }
 
 nav {
@@ -71,7 +71,7 @@ section ul {
 }
 
 #projects article {
-    background: #83C5BE;
+    background: #E3D5CA;
     padding: 1em;
 
 }
