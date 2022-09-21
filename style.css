@@ -1,0 +1,15 @@
+h1 {
+font-family: Georgia;
+}
+
+.navBar {
+display: flex;
+align-items: flex-end;
+}
+
+.navBar {
+position: fixed;
+top: 0;
+width: 100%
+}
+
