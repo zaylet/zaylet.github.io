@@ -1,5 +1,6 @@
 h1 {
 font-family: sans-serif;
+color: #62b6cb;
 }
 
 .navBar {
@@ -11,5 +12,27 @@ align-items: flex-end;
 position: fixed;
 top: 10px;
 right: 5px;
+font-size: 20px;
+padding: 10px;
+align-items: space-between;
 }
 
+a {
+text-decoration: none;
+}
+
+.aboutMeNav {
+color: #62b6cb;
+}
+
+.aboutMeNav:hover {
+color: #ffcb69;
+}
+
+.projectsNav {
+color: #62b6cb;
+}
+
+.projectsNav:hover {
+color: #ffcb69;
+}
