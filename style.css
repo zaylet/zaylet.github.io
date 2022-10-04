@@ -6,6 +6,8 @@ color: #62b6cb;
 .navBar {
 display: flex;
 align-items: flex-end;
+text-transform: uppercase;
+font-family: Helvetica;
 }
 
 .navBar {
@@ -14,7 +16,10 @@ top: 10px;
 right: 5px;
 font-size: 20px;
 padding: 10px;
-align-items: space-between;
+}
+
+.navBar a {
+padding: 5px;
 }
 
 a {
