@@ -1,6 +1,10 @@
-h1 {
+h1, h2{
 font-family: sans-serif;
 color: #62b6cb;
+}
+
+h1 {
+margin-top: 60px;
 }
 
 .navBar {
@@ -41,3 +45,13 @@ color: #62b6cb;
 .projectsNav:hover {
 color: #ffcb69;
 }
+
+p {
+width: 800px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+
